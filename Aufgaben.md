@@ -1,0 +1,10 @@
+- SQL DB: unnötige Spalten entfernen
+- PHP Export: Namen der Spalten umbenennen in lesbare Begriffe
+- zusätzliche Kategorien für linke Spalte (nur Bilder, nur Memphis etc.) 
+- generelles Design anpassen, Logo, Metadaten etc.
+- Testversion mit Zenodo verknüpfen, DOI erstellen
+- Workflow testen: 
+-- aktuelle Version aus SQL exportieren (PHP)
+-- JSON auf Github
+-- Versionierung
+- Bilder auf Github und in Visualisierungsmaske einbinden
