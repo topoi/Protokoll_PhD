@@ -7,4 +7,6 @@
 -- aktuelle Version aus SQL exportieren (PHP)  
 -- JSON auf Github  
 -- Versionierung  
+-- kompletten Code auf Annes Github Account
 - Bilder auf Github und in Visualisierungsmaske einbinden
+
