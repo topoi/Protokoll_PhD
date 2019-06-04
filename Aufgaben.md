@@ -10,3 +10,4 @@
 -- kompletten Code auf Annes Github Account
 - Bilder auf Github und in Visualisierungsmaske einbinden
 
+- Dating Tabelle und klickbare Bilder für Galerie(?)
