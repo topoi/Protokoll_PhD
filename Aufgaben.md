@@ -11,3 +11,4 @@
 - Bilder auf Github und in Visualisierungsmaske einbinden
 
 - Dating Tabelle und klickbare Bilder für Galerie(?)
+Id 1275 da fehlt das Bild, hier der Bildlink: https://images.metmuseum.org/CRDImages/eg/original/LC-67_3_EGDP028267.jpg und der link zum museum: https://www.metmuseum.org/art/collection/search/549236 
