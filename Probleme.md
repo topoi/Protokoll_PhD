@@ -11,3 +11,6 @@ Objekt 1591 gehört zu Person 2453 (ist in meiner sql und in meiner topoi Seite 
 
 female, male vs. f,m
 RPN Nummer
+
+**fehlende relations**
+zum Beispiel Objekt ID 89 hat kein Datum --> objects_dating_89 fehlt.....das kann zu Problemen führen
