@@ -14,3 +14,4 @@ RPN Nummer
 
 **fehlende relations**
 zum Beispiel Objekt ID 89 hat kein Datum --> objects_dating_89 fehlt.....das kann zu Problemen führen
+tombs sind doppelt in der objektliste 
