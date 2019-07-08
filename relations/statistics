@@ -1,1 +1,41 @@
 
+Objects
+-	Verteilung nach object_type, object_subtype und object_subtype_other 
+-	Verteilung nach object_type of provenances
+-	Verteilung nach datierung (über keys dating & kingdom)
+-	Personen mit den meisten Objekten (die ersten 10 Personen)
+- wieviele personen sind durchschnittlich auf einem Objekt genannt?
+
+Titles
+-	Verteilung der Titel nach provenances (muss über titles--> persons --> objects erfolgen, da Titel nicht an provenances gebunden sind)
+-	Verteilung der job groups (über den key field 2 & field 3 in titles) gemäß provenance (muss über titles--> persons--> objects erfolgen)
+-	Verteilung der job groups (über den key field2 & field3 in titles) gemäß datierung (muss über titles-->persons erfolgen)
+-	Verteilung der Titel nach Gender (über key field4 in titles)
+-	Prominenteste Titel, männlich und weiblich
+-	Personen mit den meisten Titeln (die ersten 10 Personen)
+- wieviele personen tragen  durchschnittlich wieviele Titel?
+
+Names/Persons
+-	Verteilung von Personenenamen nach Datierung
+-	Verteilung nach gender (über key gender)
+-	Die beliebtesten männlichen Vornamen
+-	Die beliebtesten weiblichen Vornamen
+- wieviele personen sind mit wievielen Personen relationiert (durchschnittlich)?
+
+Gods and other authorities
+-	Verteilung der Götter nach provenances (über den key gott_kult in titles tabelle) 
+-	Verteilung der Götter nach Datierung (muss über titles --> persons erfolgen, da Titel nicht an Datierungen geknüpft sind)
+-	Verteilung Götter nach job groups (über die kombination der keys gott_kult gegen field2)
+
+Provenances
+-	Verteilung nach provenances (über key object_provenance & object_provenance_reconstructed in objects)
+-	Verteilung der Titel nach provenances (muss über titles-->persons--> objects erfolgen, da Titel nicht an provenances gebunden sind)
+
+Locations
+-	Verteilung nach locations (über key object_location)
+
+Dating
+-	Verteilung nach Dynasty (key dating)
+-	Verteilung nach king (key kingdom)
+-	Verteilung nach regnal years (key period)
+
