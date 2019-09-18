@@ -1,7 +1,7 @@
 *Woche 18.9.- 20.9.*
 
 Tabellen überprüfen (alle Keys gesetzt und richtig, machen alle Abfragen in der Tabelle Sinn?)
-Inkonsistenzen, die gefunden wurden überprüfen
+Inkonsistenzen, die gefunden wurden überprüfen  
 Gordon "putzt" das Notebook für die SQL->JSON Konvertierung.   
 Anne macht zu jedem Wochenende ein Update der aktuellen SQL Version und lädt sie auf das Github....
 
