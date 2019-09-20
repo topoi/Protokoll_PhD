@@ -10,14 +10,14 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 
 ------------------------------------------------------------------------------------------------
 *Woche 23.9.- 27.9.*
-- no record -> not recorded  
+- no record -> not recorded  ==> DONE
 - Font anpassen  
-- Keys raus oder umbenennen für show/hide column  
+- Keys raus oder umbenennen für show/hide column  ==> DONE  
 - Als Default Freifeldsuche soll "Contains" verwendet werden  
 - Doppelte IDs bei Json Konvertierung entfernen  
-- In Einzelansicht Fehler ändern Adminastrative
+- In Einzelansicht Fehler ändern Adminastrative  ==> DONE
 
-- komplett raus sollen die Keys:  
+- komplett raus sollen die Keys:  ==> DONE
 
    object_component  
    condition  
@@ -25,7 +25,7 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
    measurements_unit  
    titles_translat
    
-- umbenannt werden folgende Keys:
+- umbenannt werden folgende Keys: ==> DONE
 
 field6 --> Specification (after Epithea)  
 Toponyms?? --> Specification (after Toponyms)  
