@@ -17,7 +17,7 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 - Doppelte IDs bei Json Konvertierung entfernen  
 - Einzelansicht Type ändern Adminastrative
 
-komplett raus sollen die Keys:  
+- komplett raus sollen die Keys:  
 
    object_component  
    condition  
@@ -25,7 +25,7 @@ komplett raus sollen die Keys:
    measurements_unit  
    titles_translat
    
-umbenannt werden folgende Keys:
+- umbenannt werden folgende Keys:
 
 field6 --> Specification (after Epithea)  
 Toponyms?? --> Specification (after Toponyms)  
@@ -33,15 +33,18 @@ object_technique --> Technique
 object_description --> Description  
 weblink --> Weblink  
 
-
+- Landingpage anfangen
+- Browser für Einzelansicht
 
 ------------------------------------------------------------------------------------------------
 *Woche 30.9.- 4.10.*
+
 ------------------------------------------------------------------------------------------------
 *Woche 7.10.- 11.10.*
 
 Gordon hat Prüfungswoche  
 Anne kann fleissig schreiben.  
+
 ------------------------------------------------------------------------------------------------
 *Woche 14.10.- 18.10.*
 
