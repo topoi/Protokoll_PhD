@@ -5,11 +5,35 @@ Inkonsistenzen, die gefunden wurden überprüfen
 Gordon "putzt" das Notebook für die SQL->JSON Konvertierung.   
 Anne macht zu jedem Wochenende ein Update der aktuellen SQL Version und lädt sie auf das Github....
 
-*Woche 23.9.- 27.9.*
+------------------------------------------------------------------------------------------------
+Tabellenköpfe sind drin, Suchfilter etc auch. 
 
-Wenn Probleme aus der Vorwoche gelöst wurden:  
-Gordon macht Update der Landing Page. Dafür muss noch mal klar sein, welche Keys sollen 
-abgefragt werden (idealerweise, die Keys, die auch in der Tabelle als Tabellenköpfe zu sehen sind)
+*Woche 23.9.- 27.9.*
+- no record -> not recorded  
+- Font anpassen  
+- Keys raus oder umbenennen für show/hide column  
+- Als Default Freifeldsuche soll "Contains" verwendet werden  
+- Doppelte IDs bei Json Konvertierung entfernen  
+- Einzelansicht Type ändern Adminastrative
+
+komplett raus sollen die Keys:  
+
+   object_component  
+   condition  
+   to_do  
+   measurements_unit  
+   titles_translat
+   
+umbenannt werden folgende Keys:
+
+field6 --> Specification (after Epithea)  
+Toponyms?? --> Specification (after Toponyms)  
+object_technique --> Technique  
+object_description --> Description  
+weblink --> Weblink  
+
+
+
 
 *Woche 30.9.- 4.10.*
 
