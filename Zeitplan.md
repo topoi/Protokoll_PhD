@@ -18,20 +18,11 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 - In Einzelansicht Fehler ändern Adminastrative  ==> DONE
 
 - komplett raus sollen die Keys:  ==> DONE
-
-   object_component  
-   condition  
-   to_do  
-   measurements_unit  
-   titles_translat
+  (object_component, condition, to_do ,measurements_unit ,titles_translat)
    
 - umbenannt werden folgende Keys: ==> DONE
-
-field6 --> Specification (after Epithea)  
-Toponyms?? --> Specification (after Toponyms)  
-object_technique --> Technique  
-object_description --> Description  
-weblink --> Weblink  
+    (field6 --> Specification (after Epithea), Toponyms?? --> Specification (after Toponyms), 
+    object_technique --> Technique,object_description --> Description,weblink --> Weblink)  
 
 - Landingpage anfangen
 - Browser für Einzelansicht
