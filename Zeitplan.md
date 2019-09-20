@@ -17,12 +17,12 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 - Doppelte IDs bei Json Konvertierung entfernen  
 - In Einzelansicht Fehler ändern Adminastrative  ==> DONE
 
-- komplett raus sollen die Keys:  ==> DONE
-  (object_component, condition, to_do ,measurements_unit ,titles_translat)
+- komplett raus sollen die Keys:  
+  (object_component, condition, to_do ,measurements_unit ,titles_translat) ==> DONE
    
-- umbenannt werden folgende Keys: ==> DONE
+- umbenannt werden folgende Keys:
     (field6 --> Specification (after Epithea), Toponyms?? --> Specification (after Toponyms), 
-    object_technique --> Technique,object_description --> Description,weblink --> Weblink)  
+    object_technique --> Technique,object_description --> Description,weblink --> Weblink) ==> DONE
 
 - Landingpage anfangen
 - Browser für Einzelansicht
