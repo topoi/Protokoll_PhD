@@ -15,7 +15,7 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 - Keys raus oder umbenennen für show/hide column  
 - Als Default Freifeldsuche soll "Contains" verwendet werden  
 - Doppelte IDs bei Json Konvertierung entfernen  
-- Einzelansicht Type ändern Adminastrative
+- In Einzelansicht Fehler ändern Adminastrative
 
 - komplett raus sollen die Keys:  
 
