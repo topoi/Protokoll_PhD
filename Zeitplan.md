@@ -5,9 +5,9 @@ Inkonsistenzen, die gefunden wurden überprüfen
 Gordon "putzt" das Notebook für die SQL->JSON Konvertierung.   
 Anne macht zu jedem Wochenende ein Update der aktuellen SQL Version und lädt sie auf das Github....
 
-
 Gelöst:  
 Tabellenköpfe sind drin, Suchfilter etc auch. 
+
 ------------------------------------------------------------------------------------------------
 *Woche 23.9.- 27.9.*
 - no record -> not recorded  
