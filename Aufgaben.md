@@ -18,13 +18,21 @@ eine ergebnistrefferanzeige (wenn man in der suchmaske zum beispiel nach persone
 
 --> Zu den Einzelansichten: Unter Persons 
 1. related object(s) v.l.n.r. Id - Type - Subtype - Provenance - Location - Inventory No
-2. related person(s) v.l.n.r. Id - Name - English - Gender
-3. related title(s) v.l.n.r. Id - title - translation - Gender
-4. persons with same name v.l.n.r. Id - Name - English - Gender
+2. related person(s) v.l.n.r. Id - Name - English/name (english) - Gender
+3. related title(s) v.l.n.r. Id - title - title (english) - Gender
+4. persons with same name v.l.n.r. Id - Name - name (english) - Gender
 
 --> Unter objects
-1. related person(s) v.l.n.r. Id - Name - English - Gender
+1. related person(s) v.l.n.r. Id - Name - name (english) - Gender
 2. objects of the same type v.l.n.r. Id - Type - Subtype - Provenance - Location - Inventory No
 
 --> Unter Titles
-1. related person(s) v.l.n.r. Id - Name - English - Gender
+1. related person(s) v.l.n.r. Id - Name - name (english) - Gender
+
+--> die keys in den Einzelansichten sind derzeit noch z.T. falsch benannt. da steht ja noch name (translit) ich meine das haben wir zu English umbenannt. das müsste dann entsprechend unserer Benennungen angepasst werden. dazu ist mir auch noch was aufgefallen unter titles gibt es den key Translation, der müsste allerdings umbenannt werden, denn es handelt sich ja nicht um eine Übersetzung des titles sondern eine Umschrift in englischer sprache. also wenn es möglich ist den key auch English zu nennen, dann wäre das super. falls das nicht geht weil keys ja nicht gleich heißen dürfen dann würde ich folgenden Schema nehmen
+
+für persons 
+english = name (english)
+
+für titles 
+translation = title (english) 
