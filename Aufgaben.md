@@ -28,6 +28,7 @@ START: 201.09.2019
 
 --> Unter Titles
 1. related person(s) v.l.n.r. Id - Name - name (english) - Gender
+2. titles of same name v.l.n.r. Id - title - title (english) - Gender
 
 --> die keys in den Einzelansichten sind derzeit noch z.T. falsch benannt. da steht ja noch name (translit) ich meine das haben wir zu English umbenannt. das müsste dann entsprechend unserer Benennungen angepasst werden. dazu ist mir auch noch was aufgefallen unter titles gibt es den key Translation, der müsste allerdings umbenannt werden, denn es handelt sich ja nicht um eine Übersetzung des titles sondern eine Umschrift in englischer sprache. also wenn es möglich ist den key auch English zu nennen, dann wäre das super. falls das nicht geht weil keys ja nicht gleich heißen dürfen dann würde ich folgenden Schema nehmen
 
