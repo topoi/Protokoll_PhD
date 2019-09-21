@@ -14,7 +14,7 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 - Font anpassen  
 - Keys raus oder umbenennen für show/hide column  ==> DONE  
 - Als Default Freifeldsuche soll "Contains" verwendet werden  
-- Doppelte IDs bei Json Konvertierung entfernen  
+- Doppelte IDs bei Json Konvertierung entfernen  ==> DONE
 - In Einzelansicht Fehler ändern Adminastrative  ==> DONE
 
 - komplett raus sollen die Keys:  
