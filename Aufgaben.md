@@ -21,3 +21,10 @@ eine ergebnistrefferanzeige (wenn man in der suchmaske zum beispiel nach persone
 2. related person(s) v.l.n.r. Id - Name - English - Gender
 3. related title(s) v.l.n.r. Id - title - translation - Gender
 4. persons with same name v.l.n.r. Id - Name - English - Gender
+
+--> Unter objects
+1. related person(s) v.l.n.r. Id - Name - English - Gender
+2. objects of the same type v.l.n.r. Id - Type - Subtype - Provenance - Location - Inventory No
+
+--> Unter Titles
+1. related person(s) v.l.n.r. Id - Name - English - Gender
