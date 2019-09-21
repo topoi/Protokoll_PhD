@@ -14,7 +14,7 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 - Font anpassen  
 - Counter auch für Objects & Titles ==> DONE
 - Keys raus oder umbenennen für show/hide column  ==> DONE  
-- Als Default Freifeldsuche soll "Contains" verwendet werden  
+- Als Default Freifeldsuche soll "Contains" verwendet werden  ==> DONE
 - Doppelte IDs bei Json Konvertierung entfernen  ==> DONE
 - In Einzelansicht Fehler ändern Adminastrative  ==> DONE
 
