@@ -12,6 +12,7 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 *Woche 23.9.- 27.9.*
 - no record -> not recorded  ==> DONE
 - Font anpassen  
+- Counter auch für Objects & Titles ==> DONE
 - Keys raus oder umbenennen für show/hide column  ==> DONE  
 - Als Default Freifeldsuche soll "Contains" verwendet werden  
 - Doppelte IDs bei Json Konvertierung entfernen  ==> DONE
