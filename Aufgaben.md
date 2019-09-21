@@ -15,7 +15,7 @@ Id 1275 da fehlt das Bild, hier der Bildlink: https://images.metmuseum.org/CRDIm
 - die related objects, bzw. related persons and titles sowie die ### with same name, type usw. in numerischer Reihenfolge, beginnend mit dem Kleinsten ?
 ein Vor- und Zurücktaste in der einzelansicht der daten, um einzeln durch die einzelnen datenblätter durchgehen zukönnen
 eine ergebnistrefferanzeige (wenn man in der suchmaske zum beispiel nach personen mit einem bestimmten namen suchen will, dass man eine anzeige darüber hat, wieviele daten der gefilterten suche entsprechen
-
+START: 201.09.2019
 --> Zu den Einzelansichten: Unter Persons 
 1. related object(s) v.l.n.r. Id - Type - Subtype - Provenance - Location - Inventory No
 2. related person(s) v.l.n.r. Id - Name - English/name (english) - Gender
@@ -36,3 +36,4 @@ english = name (english)
 
 für titles 
 translation = title (english) 
+ENDE: 21.09.2019
