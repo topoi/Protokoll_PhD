@@ -27,7 +27,7 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 
 - Landingpage anfangen
 - Browser für Einzelansicht
-
+- Bei same type/title/name das Element selbst wegnehmen
 ------------------------------------------------------------------------------------------------
 *Woche 30.9.- 4.10.*
 
