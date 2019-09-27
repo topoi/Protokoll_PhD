@@ -25,8 +25,8 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
     (field6 --> Specification (after Epithea), Toponyms?? --> Specification (after Toponyms), 
     object_technique --> Technique,object_description --> Description,weblink --> Weblink) ==> DONE
 
-- Landingpage anfangen
-- Browser für Einzelansicht
+- Landingpage anfangen  ==> DONE
+- Browser für Einzelansicht ==> DONE
 - Bei same type/title/name das Element selbst wegnehmen
 ------------------------------------------------------------------------------------------------
 *Woche 30.9.- 4.10.*
