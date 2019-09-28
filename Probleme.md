@@ -16,5 +16,5 @@ RPN Nummer
 zum Beispiel Objekt ID 89 hat kein Datum --> objects_dating_89 fehlt.....das kann zu Problemen führen
 tombs sind doppelt in der objektliste 
 
-28.09.2019 START: Wenn ich unter persons in der freitextsuche den Namen :  B#-n.j-on.tjt eingebe, dann erhalte ich drei Treffer. Wenn ich dann den ersten öffne und mit dem Pfeil zur nächsten person gehe, dann kommt eine person mit anderem Namen und wenn ich nochmal weiter gehe, wieder eine person mit anderem Namen. ist mir bereits öfter aufgefallen. 
+28.09.2019 START: Wenn ich unter persons in der freitextsuche den Namen :  B#-n.j-on.tjt eingebe, dann erhalte ich drei Treffer. Wenn ich dann den ersten öffne und mit dem Pfeil zur nächsten person gehe, dann kommt eine person mit anderem Namen und wenn ich nochmal weiter gehe, wieder eine person mit anderem Namen. ist mir bereits öfter aufgefallen. Bei dem N#n# gibt es ebenfalls ein Problem. Dort finden sich unter dem Namen drei Treffer, wenn man in der einzelnansicht vom ersten zum zweiten eintrag gehen will gelangt man zu einer Person namens Meryre, die nächstfolgenden heißen dann alle Meryre
 28.09.2018 ENDE
