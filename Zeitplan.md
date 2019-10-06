@@ -11,7 +11,7 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 ------------------------------------------------------------------------------------------------
 *Woche 23.9.- 27.9.*
 - no record -> not recorded  ==> DONE
-- Font anpassen  
+- Font anpassen  ==> STILL TO DO
 - Counter auch für Objects & Titles ==> DONE
 - Keys raus oder umbenennen für show/hide column  ==> DONE  
 - Als Default Freifeldsuche soll "Contains" verwendet werden  ==> DONE
@@ -27,13 +27,14 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 
 - Landingpage anfangen  ==> DONE
 - Browser für Einzelansicht ==> DONE
-- Bei same type/title/name das Element selbst wegnehmen
+- Bei same type/title/name das Element selbst wegnehmen ==> STILL TO DO!!
 ------------------------------------------------------------------------------------------------
 *Woche 30.9.- 4.10.*
 
 
  Abfrage zu Provenance weiter schreiben  
  Landing Page weiter machen 
+ Neues Filtermenu implementiert, neue Features etc. eingebaut. 
  
 ------------------------------------------------------------------------------------------------
 *Woche 7.10.- 11.10.*
