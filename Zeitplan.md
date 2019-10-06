@@ -11,7 +11,9 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 ------------------------------------------------------------------------------------------------
 *Woche 23.9.- 27.9.*
 - no record -> not recorded  ==> DONE
+```diff
 - Font anpassen  ==> STILL TO DO
+```
 - Counter auch für Objects & Titles ==> DONE
 - Keys raus oder umbenennen für show/hide column  ==> DONE  
 - Als Default Freifeldsuche soll "Contains" verwendet werden  ==> DONE
