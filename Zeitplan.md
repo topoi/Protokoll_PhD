@@ -29,7 +29,9 @@ Tabellenköpfe sind drin, Suchfilter etc auch.
 
 - Landingpage anfangen  ==> DONE
 - Browser für Einzelansicht ==> DONE
+```diff
 - Bei same type/title/name das Element selbst wegnehmen ==> STILL TO DO!!
+```
 ------------------------------------------------------------------------------------------------
 *Woche 30.9.- 4.10.*
 
