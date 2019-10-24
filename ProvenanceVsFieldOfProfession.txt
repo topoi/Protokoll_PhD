@@ -86,6 +86,7 @@
      ('Pre', 14),
      ('Osiris', 13),
      ('all gods of Inebuhedj', 12)])]),
+     ###########################################################################################################
  ('EG, Mit Rahina',
   [('field2', [('cultic personnel', 4), ('royal court society', 2)]),
    ('field3', [('musicians', 2), ('priests', 2), ('royal household', 2)]),
@@ -98,14 +99,17 @@
      ('', 1),
      ('king', 1),
      ('king (Ramesses)', 1)])]),
+     ##########################################################################################################
  ('EG, Saqqara-South, Pyramid-complex of Pepi',
   [('field2', [('administration', 2)]),
    ('field3',
     [('administration of the domaines, storehouses and granaries', 2)]),
    ('field5', [('overseer of the granary', 2)]),
    ('gottkult', [('king (lord of the two lands)', 1), ('', 1)])]),
+   ############################################################################
  ('EG, Saqqara-South, Pyramid-complex of Pepi II',
   [('field2', []), ('field3', []), ('field5', []), ('gottkult', [])]),
+  ##############################################################################
  ('EG, Dahschur-North',
   [('field2',
     [('administration', 15),
@@ -137,6 +141,7 @@
      ('king (lord of the two lands)', 2),
      ('Ptah', 2),
      ('Neith', 1)])]),
+     ###################################################
  ('EG, Saqqara-South, Unas-cemetery',
   [('field2',
     [('administration', 712),
@@ -224,6 +229,7 @@
      ('Sekhmet', 2),
      ('Pre', 2),
      ('Amun, Hathor and Ra', 2)])]),
+     ##############################################################
  ('EG, Saqqara-North, Teti-cemetery',
   [('field2',
     [('administration', 109),
@@ -304,6 +310,7 @@
      ('king (Ramesses II)', 1),
      ('Thot', 1),
      ('Mut', 1)])]),
+     #########################################################################
  ('EG, Karnak, Temple of Amun',
   [('field2',
     [('administration', 13), ('military', 5), ('cultic personnel', 1)]),
@@ -337,6 +344,7 @@
      ('Amun-Ra', 1),
      ('king (King Ramesses II)', 1)])]),
  ('None', [('field2', []), ('field3', []), ('field5', []), ('gottkult', [])]),
+ #################################################################################
  ('EG, Thebes',
   [('field2',
     [('administration', 83),
@@ -403,6 +411,7 @@
      ('Werethekau', 1),
      ('vizier Hori', 1),
      ('Hathor', 1)])]),
+     #####################################################################
  ('EG, Saqqara-North',
   [('field2', [('cultic personnel', 3), ('administration', 3)]),
    ('field3',
@@ -417,6 +426,7 @@
      ('overseer of the granary', 1),
      ('vizier', 1)]),
    ('gottkult', [('', 3), ('Ptah', 2), ('Amun', 1)])]),
+   ##################################################################
  ('EG, Saqqara-North, Khaemwaset-Hill',
   [('field2',
     [('administration', 2),
@@ -522,6 +532,7 @@
      ('(Hathor)', 1),
      ('king (sovereign)', 1),
      ('Thot', 1)])]),
+     ##############################################################################
  ('EG, Deir el-Medineh',
   [('field2',
     [('royal court society', 6),
@@ -532,6 +543,7 @@
    ('field5',
     [('royal butler', 5), ('chantress', 1), ('scribe', 1), ('butler', 1)]),
    ('gottkult', [('king', 7), ('Amun', 1)])]),
+   #################################################################
  ('EG, Abusir-South',
   [('field2',
     [('cultic personnel', 12),
@@ -568,6 +580,7 @@
      ('king', 1),
      ('king (his majesty)', 1),
      ('king (perfect god)', 1)])]),
+     ##########################################################################
  ('EG, Tell el-Galaah',
   [('field2',
     [('administration', 6), ('military', 1), ('royal court society', 1)]),
@@ -589,6 +602,7 @@
      ('butler', 1)]),
    ('gottkult',
     [('', 4), ('king', 2), (None, 1), ('king (lord of the two lands)', 1)])]),
+    ###############################################################################
  ('EG, Saqqara-South, Mastaba el-Faroun',
   [('field2', [('administration', 4), ('cultic personnel', 2)]),
    ('field3',
@@ -601,6 +615,7 @@
      ('greatest of seers', 1),
      ("god's servant", 1)]),
    ('gottkult', [('Aten', 5), ('Neith', 1)])]),
+   ##########################################################################
  ('EG, Saqqara-North, Serapeum',
   [('field2',
     [('administration', 90),
@@ -675,6 +690,7 @@
      ('king (his majesty)', 1),
      ('mayor', 1),
      ('Mnevis', 1)])]),
+     ###############################################################
  ('EG, Thebes, el-Asasif',
   [('field2', [('administration', 5)]),
    ('field3',
@@ -683,11 +699,13 @@
      ('bureau', 1)]),
    ('field5', [('scribe', 3), ('mayor', 2)]),
    ('gottkult', [('', 3), ('king', 2)])]),
+   ############################################################
  ('EG, Karnak, Temple of Amun, Pylon IX',
   [('field2', [('administration', 1)]),
    ('field3', [('national administration', 1)]),
    ('field5', [('vizier', 1)]),
    ('gottkult', [('', 1)])]),
+   ############################################################
  ('EG, Asyut',
   [('field2',
     [('cultic personnel', 3),
@@ -707,8 +725,10 @@
      ("god's servant", 1)]),
    ('gottkult',
     [('king', 2), ('', 2), ('Ptah', 1), ('king (Ramesses II)', 1)])]),
+    ##########################################################################
  ('EG, Saqqara-South',
   [('field2', []), ('field3', []), ('field5', []), ('gottkult', [])]),
+ ###########################################################################
  ('EG, Fort Zawyet ... el-Rakhan',
   [('field2', [('military', 2)]),
    ('field3',
@@ -716,7 +736,8 @@
      ('expeditions and military campaign', 1)]),
    ('field5', [('troop commander', 1), ('overseer of foreign lands', 1)]),
    ('gottkult', [('', 2)])]),
- ('EG, Tell el-Amarna',
+   #########################################################
+   ('EG, Tell el-Amarna',
   [('field2',
     [('administration', 8),
      ('service and supply', 4),
@@ -742,6 +763,7 @@
      ('king', 2),
      ('Ptah', 2),
      (None, 2)])]),
+     #################################################################
  ('EG, Gurob',
   [('field2',
     [('administration', 4),
@@ -768,6 +790,7 @@
      ('king', 1),
      ('Ptah', 1),
      (None, 1)])]),
+     ###############################################################
  ('EG, Abusir, Pyramid-complex of Sahure',
   [('field2',
     [('administration', 12),
@@ -810,6 +833,7 @@
      ('king (lord of the two lands)', 1),
      ('king (Tutankhamun)', 1),
      ('Werethekau', 1)])]),
+     ################################################################################
  ('EG, Abydos',
   [('field2',
     [('administration', 23),
@@ -852,6 +876,7 @@
      ('Ptah', 2),
      ('king (lord of the lands)', 1),
      ('Osiris', 1)])]),
+     ##################################################################################
  ('EG, Giza, Nazlat el-Batran',
   [('field2',
     [('service and supply', 16),
@@ -880,6 +905,7 @@
      ('king (lord of the two lands)', 2),
      ('Ptah', 2),
      ('king (pharao)', 1)])]),
+     #################################################################################
  ('EG, Giza',
   [('field2',
     [('administration', 8),
@@ -920,8 +946,10 @@
      ('king', 1),
      ('king (Ramesses II)', 1),
      ('scribe of Hathor', 1)])]),
+     #################################################################
  ('EG, Zawiyet el-Aryan',
   [('field2', []), ('field3', []), ('field5', []), ('gottkult', [])]),
+  ########################################################################
  ('EG, Sedment',
   [('field2',
     [('administration', 12), ('cultic personnel', 8), ('military', 2)]),
@@ -961,21 +989,25 @@
      ('Ptah', 1),
      ('Ra', 1),
      ('Sekhmet', 1)])]),
+     ##############################################################
  ('EG, Assuan, Road to Philae',
   [('field2', [('', 1), ('administration', 1)]),
    ('field3', [('', 1), ('regional administration', 1)]),
    ('field5', [('dignitary', 1), ('mayor', 1)]),
    ('gottkult', [('', 2)])]),
+   ###########################################################
  ('EG, Dahschur, Pyramid-complex of Userkare-Khendjer',
   [('field2', [('administration', 1)]),
    ('field3', [('bureau', 1)]),
    ('field5', [('scribe', 1)]),
    ('gottkult', [('', 1)])]),
+   ###########################################################
  ('EG, Deir el-Bahari, Temple of Hatshepsut',
   [('field2', [('administration', 2)]),
    ('field3', [('bureau', 1), ('royal administration', 1)]),
    ('field5', [('herald', 2)]),
    ('gottkult', [('', 1), ('king', 1)])]),
+   ############################################################
  ('EG, Saqqara-North, Animal Necropolis',
   [('field2',
     [('cultic personnel', 5),
@@ -1006,6 +1038,7 @@
      ('Amun', 1),
      ('Khons', 1),
      ('Nebperka', 1)])]),
+     #######################################################################
  ('EG, Sehel',
   [('field2', [('administration', 3), ('service and supply', 2)]),
    ('field3',
@@ -1017,6 +1050,7 @@
      ('craftsman', 2),
      ('great one in Heliopolis', 1)]),
    ('gottkult', [('', 3), (None, 1), ('Ra and Ptah', 1)])]),
+   #####################################################################
  ('EG, Saqqara-South, Pyramid-complex of Ibi',
   [('field2',
     [('service and supply', 9),
@@ -1048,11 +1082,13 @@
      ('Atum', 1),
      ('king', 1),
      (None, 1)])]),
+     ########################################################################
  ('EG, Kafr el Gebel',
   [('field2', [('service and supply', 3)]),
    ('field3', [('construction and building', 3)]),
    ('field5', [('draughtsman', 3)]),
    ('gottkult', [('', 3)])]),
+   ########################################################
  ('EG, Mit Rahina, Temple of Ptah',
   [('field2',
     [('administration', 162),
@@ -1135,11 +1171,13 @@
      ("king's son", 1),
      ('Bastet', 1),
      ('king (Merenptah)', 1)])]),
+     ######################################################################
  ('EG, Abu Gurob, Temple of Thutmose III',
   [('field2', [('royal court society', 1)]),
    ('field3', [('royal household', 1)]),
    ('field5', [('butler', 1)]),
    ('gottkult', [('king (lord of the two lands)', 1)])]),
+   ########################################################################
  ('EG, Abydos, Temple of Osiris',
   [('field2',
     [('administration', 20), ('cultic personnel', 4), ('military', 1)]),
@@ -1174,6 +1212,7 @@
      ('Amun', 1),
      ('Werethekau', 1),
      ('Ptah', 1)])]),
+     #################################################################
  ('EG, Sais',
   [('field2',
     [('cultic personnel', 5), ('military', 1), ('administration', 1)]),
@@ -1191,8 +1230,10 @@
      ('vizier', 1)]),
    ('gottkult',
     [('Ptah', 2), ('', 2), ('Ra', 1), ('Ra-Amun', 1), ('king', 1)])]),
+    ################################################################
  ('EG, Luxor',
   [('field2', []), ('field3', []), ('field5', []), ('gottkult', [])]),
+  ######################################################################
  ('EG, Dahschur',
   [('field2', [('administration', 2), ('royal court society', 1)]),
    ('field3',
@@ -1200,11 +1241,13 @@
      ('royal nursery', 1)]),
    ('field5', [('steward', 2), ('nurse', 1)]),
    ('gottkult', [('', 1), ("king's wife", 1), ('king', 1)])]),
+   ################################################################
  ('EG, Thebes, Deir el-Bahari',
   [('field2', [('administration', 2)]),
    ('field3', [('royal administration', 1), ('regional administration', 1)]),
    ('field5', [('scribe', 1), ('mayor', 1)]),
    ('gottkult', [('king', 1), ('', 1)])]),
+   #################################################################
  ('EG, Saqqara-North, Falaise du Bubasteion',
   [('field2',
     [('administration', 34),
@@ -1281,6 +1324,7 @@
      ('Ptah', 1),
      ('Meriamun', 1),
      ('child of the royal nursery', 1)])]),
+     ################################################################################
  ('EG, Saqqara-South, Pyramid-complex of Djoser',
   [('field2',
     [('administration', 10),
@@ -1312,6 +1356,7 @@
      ('king (Ramesses)', 1),
      ('vizier', 1),
      ('king (lord of the two lands)', 1)])]),
+     ######################################################################################
  ('EG, Heliopolis, Matariya',
   [('field2', [('administration', 7), ('military', 1)]),
    ('field3',
@@ -1329,6 +1374,7 @@
      ('king', 3),
      ('king (lord of the two lands)', 1),
      ('king (Ramesses)', 1)])]),
+     #####################################################################################
  ('EG, Abusir',
   [('field2',
     [('cultic personnel', 3),
@@ -1354,6 +1400,7 @@
      ('soldier', 1),
      ('standard bearer', 1)]),
    ('gottkult', [('', 6), ('Ptah', 1), ('Amun', 1), ('Sekhmet', 1)])]),
+   ##########################################################################################
  ('EG, Giza, Chephren Pyramid',
   [('field2', [('administration', 6), ('service and supply', 4)]),
    ('field3',
@@ -1365,21 +1412,25 @@
      ('craftsman', 4),
      ('great one in Heliopolis', 2)]),
    ('gottkult', [('', 6), (None, 2), ('Ra and Ptah', 2)])]),
+   ##################################################################################################
  ('EG, Abydos?',
   [('field2', [('administration', 1)]),
    ('field3', [('national administration', 1)]),
    ('field5', [('vizier', 1)]),
    ('gottkult', [('', 1)])]),
+   #####################################################################################
  ('EG, Heliopolis',
   [('field2', [('administration', 1)]),
    ('field3', [('regional administration', 1)]),
    ('field5', [('mayor', 1)]),
    ('gottkult', [('king (Thutmose I)', 1)])]),
+   ####################################################################################
  ('EG, Buto',
   [('field2', [('administration', 4)]),
    ('field3', [('administration of cattle', 3), ('royal administration', 1)]),
    ('field5', [('overseer of cattle', 3), ('scribe', 1)]),
    ('gottkult', [('Amun', 2), ('king', 1), ('king (Ramesses II)', 1)])]),
+   ###################################################################################
  ('EG, Karnak?',
   [('field2', [('cultic personnel', 3), ('royal court society', 1)]),
    ('field3', [('priests', 3), ('royal family', 1)]),
@@ -1399,6 +1450,7 @@
      ('royal household', 1)]),
    ('field5', [('scribe', 3), ('overseer of the granary', 1), ('steward', 1)]),
    ('gottkult', [('', 3), ('king', 2)])]),
+   ##############################################################################
  ('EG, Qantir',
   [('field2',
     [('administration', 5), ('military', 1), ('cultic personnel', 1)]),
@@ -1417,6 +1469,7 @@
      ('festical conductor', 1),
      ('scribe', 1)]),
    ('gottkult', [('king', 4), (None, 1), ('', 1), ('Ptah', 1)])]),
+   ############################################################################################
  ('EG, Saqqara-South, Valley temple of Unas',
   [('field2', [('royal court society', 4), ('military', 1)]),
    ('field3', [('royal household', 4), ('calvary', 1)]),
@@ -1425,6 +1478,7 @@
      ('overseer of the Ipet-nesut', 1),
      ('overseer of horses', 1)]),
    ('gottkult', [('', 3), ('king', 2)])]),
+   ####################################################################################
  ('EG, Biban el-Muluk',
   [('field2', [('administration', 15), ('cultic personnel', 3)]),
    ('field3',
