@@ -1,4 +1,4 @@
-[('',
+[('ALLE(?)',
   [('field2',
     [('administration', 2349),
      ('cultic personnel', 1016),
