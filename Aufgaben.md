@@ -38,3 +38,94 @@ english = name (english)
 für titles 
 translation = title (english) 
 ENDE: 21.09.2019
+
+4.11.2019
+
+Abfrage1:  wieviele Personen auf den Objekten für Teti, Unas, Falaise
+Abfrage2:  für alle Grabbesitzer auf allen Friedhöfen (83 Personen), Tomb Owner in tombowner.csv
+10001,Tomb Owner
+10035,Tomb Owner
+10039,Tomb Owner
+10040,Tomb Owner
+10042,Tomb Owner
+10048,Tomb Owner
+10074,Tomb Owner
+10076,Tomb Owner
+10123,Tomb Owner
+10135,Tomb Owner
+10150,Tomb Owner
+10161,Tomb Owner
+10179,Tomb Owner
+10187,Tomb Owner
+10193,Tomb Owner
+10194,Tomb Owner
+10212,Tomb Owner
+10241,Tomb Owner
+10257,Tomb Owner
+10267,Tomb Owner
+10295,Tomb Owner
+10306,Tomb Owner
+10307,Tomb Owner
+10327,Tomb Owner
+10368,Tomb Owner
+10385,Tomb Owner
+10404,Tomb Owner
+10405,Tomb Owner
+10415,Tomb Owner
+10423,Tomb Owner
+10432,Tomb Owner
+10434,Tomb Owner
+10445,Tomb Owner
+10464,Tomb Owner
+10466,Tomb Owner
+10487,Tomb Owner
+10498,Tomb Owner
+10510,Tomb Owner
+10514,Tomb Owner
+10519,Tomb Owner
+10530,Tomb Owner
+10537,Tomb Owner
+10539,Tomb Owner
+10547,Tomb Owner
+10551,Tomb Owner
+10571,Tomb Owner
+10587,Tomb Owner
+10631,Tomb Owner
+10650,Tomb Owner
+10662,Tomb Owner
+10667,Tomb Owner
+10675,Tomb Owner
+10676,Tomb Owner
+10685,Tomb Owner
+10715,Tomb Owner
+10752,Tomb Owner
+10784,Tomb Owner
+10797,Tomb Owner
+10800,Tomb Owner
+10801,Tomb Owner
+10808,Tomb Owner
+10815,Tomb Owner
+10829,Tomb Owner
+10886,Tomb Owner
+10895,Tomb Owner
+10905,Tomb Owner
+10909,Tomb Owner
+10933,Tomb Owner
+10944,Tomb Owner
+10946,Tomb Owner
+10952,Tomb Owner
+11027,Tomb Owner
+11119,Tomb Owner
+11187,Tomb Owner
+11207,Tomb Owner
+11570,Tomb Owner
+11584,Tomb Owner
+11602,Tomb Owner
+11770,Tomb Owner
+11876,Tomb Owner
+12652,Tomb Owner
+12719,Tomb Owner
+
+
+
+
