@@ -41,8 +41,8 @@ ENDE: 21.09.2019
 
 4.11.2019
 
-Abfrage1:  wieviele Personen auf den Objekten für Teti, Unas, Falaise
-Abfrage2:  für alle Grabbesitzer auf allen Friedhöfen (83 Personen), Tomb Owner in tombowner.csv
+Abfrage1:  wieviele Personen auf den Objekten für Teti, Unas, Falaise   
+Abfrage2:  für alle Grabbesitzer auf allen Friedhöfen (83 Personen), Tomb Owner in tombowner.csv    
 10001,Tomb Owner
 10035,Tomb Owner
 10039,Tomb Owner
