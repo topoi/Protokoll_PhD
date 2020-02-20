@@ -7,15 +7,39 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "c1d1ix1r5ldq6yl3xwvh3u3fxqale7sy",
-      "css": "home",
-      "code": 59392,
-      "src": "modernpics"
-    },
-    {
       "uid": "513ac180ff85bd275f2b736720cbbf5e",
       "css": "home-1",
       "code": 59393,
+      "src": "entypo"
+    },
+    {
+      "uid": "0afbb00323696f49e9c47f4d9fe6390b",
+      "css": "to-end",
+      "code": 59394,
+      "src": "entypo"
+    },
+    {
+      "uid": "ceefe7653a4f6edaacce9e7f196cec5a",
+      "css": "to-start",
+      "code": 59395,
+      "src": "entypo"
+    },
+    {
+      "uid": "4a413ef43c364dafa42766e74c31bbca",
+      "css": "cc",
+      "code": 59396,
+      "src": "entypo"
+    },
+    {
+      "uid": "72681d2825fef7fd83711278f845547b",
+      "css": "cc-by",
+      "code": 59397,
+      "src": "entypo"
+    },
+    {
+      "uid": "2d741e29010c6afbfc3784251fbf4e8b",
+      "css": "cc-nc-eu",
+      "code": 59398,
       "src": "entypo"
     }
   ]
