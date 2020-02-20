@@ -147,3 +147,14 @@ Aktuellen Datenstand auf Zenodo hochladen --> Achtung neue DOI
 Metadata (siehe upload file in Github) zu 'Project' im Menu
 
 Metadata (citation & access date) zu Einzelansichten hinzufügen
+
+START 21.02.2020 
+Ersetze document link in der einzelansicht nach dem folgenden Schema (am bsp. Aaemhotep)
+
+Permalink: https://anneherz.github.io/ProM/detail/singleview_persons.html?ids=2411&name=o#-m-Htp
+
+Citation: 
+Anne Herzberg-Beiersdorf, Prosopographia Memphitica,  https://anneherz.github.io/ProM/detail/singleview_persons.html?ids=2411&name=o#-m-Htp
+
+Access Date: 28.02.2020
+
