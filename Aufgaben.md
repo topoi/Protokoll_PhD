@@ -126,6 +126,24 @@ Abfrage2:  für alle Grabbesitzer auf allen Friedhöfen (83 Personen), Tomb Owne
 12652,Tomb Owner
 12719,Tomb Owner
 
+Update der sql database zur Abgabe der Diss einpflegen 
 
+Tausche Namen 'Memphis Navigator' --> 'Prosopographia Memphitica' und 'A tool designed for database navigation' --> A Prosopographical Database 
 
+Lösche 'Main Menu' Button von Startbildschirm, verwirrt den Besucher, da man davon ausgeht hier zu einem Hauptmenü zu gelangen, 
 
+Tausche 'Project & Help' --> 'Menu'
+
+Tausche 'Instruction' in Seitenreiter --> 'How to use'
+
+Tausche 'Description' im Seitenreiter (Unterpunkt zu 'Networks') --> 'About Network Studies'
+
+Tausche Button 'Main Menu' (drei Striche) innerhalb der Filterlogik zu Homebutton (Haussymbol wie im Browser) --> benennung des hausbuttons dann nicht nötig, weil Haussymbol selbsterklärend ist
+
+Tausche Buttonbeschriftung 'Back to current menu' zu 'Back to search'
+
+Aktuellen Datenstand auf Zenodo hochladen --> Achtung neue DOI
+
+Metadata (siehe upload file in Github) zu 'Project' im Menu
+
+Metadata (citation & access date) zu Einzelansichten hinzufügen
