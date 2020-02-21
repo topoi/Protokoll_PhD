@@ -191,3 +191,5 @@ Farbe des Menukastens in der Einzelansicht auf Semi-Transparent stellen, wie im 
 Erstelle neuen Reiter im 'Menu' mit dem Namen 'Terms & Conditions of Use' 
 
 Füge Text im 'Menu' unter 'Terms & Conditions of Use' ein (Formatierungsangaben im Text enthalten) --> pdf in github hochgeladen
+
+Texte unter 'Project', 'About Network Studies' und 'Terms und Conditions of Use' nach Möglichkeit über die volle Breite des Bildschirms laufen lassen, sondern einen Abstand/Seitenränder einbauen 
