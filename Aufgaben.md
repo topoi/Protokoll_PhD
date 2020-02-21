@@ -164,7 +164,8 @@ Schreibe Prosopographia Memphitica auf startbildschirm nebeneinander nicht unter
 Ändere Farben der Einzelseiten aus dem 'Menu' (Project, How to usw, Networks, Contacts) in rgb 245,245,245 bzw. #f5f5f5 bzw. C=0 M=0 Y=0 K=4  
 Als Schriftfont für die Texte hätte ich gerne https://fonts.google.com/specimen/Source+Sans+Pro in light. Schriftgröße: 12 pt bzw. 16 px, Schriftfarbe: rgb 48,48,48 bzw.#303030  
 Die Texte (bspw. unter 'About Network Studies') immer im Blocksatz und mit 1,5 pt Zeilenabstand  
-Wenn das nicht zuviel Arbeit macht, dann können wir die Schrift gerne für alle Schriften nehmen. Ich würde für den normalen text immer sans source pro light nehmen und für die Überschriften für ich dann sans source pro regular nehmen.  
+Wenn das nicht zuviel Arbeit macht, dann können wir die Schrift gerne für alle Schriften nehmen. Ich würde für den normalen text immer sans source pro light nehmen und für die Überschriften für ich dann sans source pro regular nehmen.
+ENDE 21.02.2020
 
 **21.2:**
 Wir müssen noch mal die Hierarchie diskutieren. Die Volltextsuche basiert immer auf dem vollen Datensatz und steht über der Dropdown Suche. Würde ich vorschlagen.  
@@ -174,5 +175,19 @@ Citation: Anne Herzberg-Beiersdorf, Prosopographia Memphitica, https://anneherz.
 
 muss Komma vor Access Date
 
-Memphis Navigator im Reiter ersetzen
+Memphis Navigator im Reiter ersetzen  
 
+START 21.02.2020
+muss Komma vor Access Date: JA!
+
+Ersetze Text im 'Menu' unter 'About Network Studies' (Formatierungsangaben im Text enthalten) --> pdf in Github hochgeladen
+
+Ersetze Text im 'Menu' unter 'Project' (Formatierungsangaben im Text enthalten) --> pdf in Github hochgeladen
+
+Ändere Hintergrundfarbe der Einzelansicht auf in rgb 245,245,245 bzw. #f5f5f5 bzw. C=0 M=0 Y=0 K=4 und Schriftfarbe in Schriftgröße: 12 pt bzw. 16 px, Schriftfarbe: rgb 48,48,48 bzw.#303030  
+
+Farbe des Menukastens in der Einzelansicht auf Semi-Transparent stellen, wie im Hauptmenu 
+
+Erstelle neuen Reiter im 'Menu' mit dem Namen 'Terms & Conditions of Use' 
+
+Füge Text im 'Menu' unter 'Terms & Conditions of Use' ein (Formatierungsangaben im Text enthalten) --> pdf in github hochgeladen
