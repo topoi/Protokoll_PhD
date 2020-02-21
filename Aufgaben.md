@@ -156,15 +156,15 @@ Citation:
 Anne Herzberg-Beiersdorf, Prosopographia Memphitica,  https://anneherz.github.io/ProM/detail/singleview_persons.html?ids=2411&name=o#-m-Htp
 Access Date: 28.02.2020
 
-Ersetze Homebutton durch Home icon im github ordner iconic home (dazu gibt es ein file Unicodes)
-Ersetze vor und zurück pfeile durch pfeil icons im github ordner iconic home
-füge creative commons icons am ende der seite 'project' ein
-Schreibe Prosopographia Memphitica auf startbildschirm nebeneinander nicht untereinander
-Ändere farben der Buttons der dropdowns und show results buttons in rgb 54,100,139 bzw.#36648b bzw. C=61 M=28 Y=0 K=45
-Ändere Farben der Einzelseiten aus dem 'Menu' (Project, How to usw, Networks, Contacts) in rgb 245,245,245 bzw. #f5f5f5 bzw. C=0 M=0 Y=0 K=4
-Als Schriftfont für die Texte hätte ich gerne https://fonts.google.com/specimen/Source+Sans+Pro in light. Schriftgröße: 12 pt bzw. 16 px, Schriftfarbe: rgb 48,48,48 bzw.#303030
-Die Texte (bspw. unter 'About Network Studies') immer im Blocksatz und mit 1,5 pt Zeilenabstand
-Wenn das nicht zuviel Arbeit macht, dann können wir die Schrift gerne für alle Schriften nehmen. Ich würde für den normalen text immer sans source pro light nehmen und für die Überschriften für ich dann sans source pro regular nehmen.
+Ersetze Homebutton durch Home icon im github ordner iconic home (dazu gibt es ein file Unicodes)  
+Ersetze vor und zurück pfeile durch pfeil icons im github ordner iconic home  
+füge creative commons icons am ende der seite 'project' ein  
+Schreibe Prosopographia Memphitica auf startbildschirm nebeneinander nicht untereinander  
+Ändere farben der Buttons der dropdowns und show results buttons in rgb 54,100,139 bzw.#36648b bzw. C=61 M=28 Y=0 K=45  
+Ändere Farben der Einzelseiten aus dem 'Menu' (Project, How to usw, Networks, Contacts) in rgb 245,245,245 bzw. #f5f5f5 bzw. C=0 M=0 Y=0 K=4  
+Als Schriftfont für die Texte hätte ich gerne https://fonts.google.com/specimen/Source+Sans+Pro in light. Schriftgröße: 12 pt bzw. 16 px, Schriftfarbe: rgb 48,48,48 bzw.#303030  
+Die Texte (bspw. unter 'About Network Studies') immer im Blocksatz und mit 1,5 pt Zeilenabstand  
+Wenn das nicht zuviel Arbeit macht, dann können wir die Schrift gerne für alle Schriften nehmen. Ich würde für den normalen text immer sans source pro light nehmen und für die Überschriften für ich dann sans source pro regular nehmen.  
 
 **21.2:**
 Wir müssen noch mal die Hierarchie diskutieren. Die Volltextsuche basiert immer auf dem vollen Datensatz und steht über der Dropdown Suche. Würde ich vorschlagen.
