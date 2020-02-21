@@ -167,6 +167,12 @@ Die Texte (bspw. unter 'About Network Studies') immer im Blocksatz und mit 1,5 p
 Wenn das nicht zuviel Arbeit macht, dann können wir die Schrift gerne für alle Schriften nehmen. Ich würde für den normalen text immer sans source pro light nehmen und für die Überschriften für ich dann sans source pro regular nehmen.  
 
 **21.2:**
-Wir müssen noch mal die Hierarchie diskutieren. Die Volltextsuche basiert immer auf dem vollen Datensatz und steht über der Dropdown Suche. Würde ich vorschlagen.
+Wir müssen noch mal die Hierarchie diskutieren. Die Volltextsuche basiert immer auf dem vollen Datensatz und steht über der Dropdown Suche. Würde ich vorschlagen.  
 
+Bei Einzelansicht:    
+Citation: Anne Herzberg-Beiersdorf, Prosopographia Memphitica, https://anneherz.github.io/ProM/detail/singleview_persons.html?ids=133&name=o#-mw Access Date: 28.02.2020
+
+muss Komma vor Access Date
+
+Memphis Navigator im Reiter ersetzen
 
