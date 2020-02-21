@@ -166,6 +166,7 @@ Als Schriftfont für die Texte hätte ich gerne https://fonts.google.com/specime
 Die Texte (bspw. unter 'About Network Studies') immer im Blocksatz und mit 1,5 pt Zeilenabstand
 Wenn das nicht zuviel Arbeit macht, dann können wir die Schrift gerne für alle Schriften nehmen. Ich würde für den normalen text immer sans source pro light nehmen und für die Überschriften für ich dann sans source pro regular nehmen.
 
-
+**21.2:**
+Wir müssen noch mal die Hierarchie diskutieren. Die Volltextsuche basiert immer auf dem vollen Datensatz und steht über der Dropdown Suche. Würde ich vorschlagen.
 
 
